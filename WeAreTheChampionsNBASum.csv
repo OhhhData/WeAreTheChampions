@@ -1,22 +1,22 @@
-Team,Championships,City
-Boston Celtics,17,Boston
-Chicago Bulls,6,Chicago
-Cleveland Cavaliers,1,Cleveland
-Dallas Mavericks,1,Dallas
-Detroit Pistons,3,Detroit
-Golden State Warriors,4,Oakland
-Houston Rockets,2,Houston
-Los Angeles Lakers,11,Los Angeles
-Miami Heat,3,Miami
-Milwaukee Bucks,1,Milwaukee
-Minneapolis Lakers,4,Minneapolis
-New York Knicks,2,New York
-Philadelphia 76ers,2,Philadelphia
-Philadelphia Warriors,1,Philadelphia
-Portland Trail Blazers,1,Portland
-Rochester Royals,1,Rochester
-San Antonio Spurs,5,San Antonio
-Seattle SuperSonics,1,Seattle
-St. Louis Hawks,1,Saint Louis
-Syracuse Nationals,1,Syracuse
-Washington Bullets,1,District of Columbia
+Team,Championships,State
+Boston Celtics,17,MA
+Chicago Bulls,6,IL
+Cleveland Cavaliers,1,OH
+Dallas Mavericks,1,TX
+Detroit Pistons,3,MI
+Golden State Warriors,4,CA
+Houston Rockets,2,TX
+Los Angeles Lakers,11,CA
+Miami Heat,3,FL
+Milwaukee Bucks,1,WI
+Minneapolis Lakers,4,MN
+New York Knicks,2,NY
+Philadelphia 76ers,2,PA
+Philadelphia Warriors,1,PA
+Portland Trail Blazers,1,OR
+Rochester Royals,1,NY
+San Antonio Spurs,5,TX
+Seattle SuperSonics,1,WA
+St. Louis Hawks,1,MO
+Syracuse Nationals,1,NY
+Washington Bullets,1,DC
